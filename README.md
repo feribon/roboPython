@@ -1,2 +1,2 @@
 # roboPython
- mensagem automatica no whatsapp
+ envia mensagem automatica, a partir de uma lista de contatos no excel.
